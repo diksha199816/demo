@@ -1,1 +1,1 @@
-print hello
+print ("Wassup Buddy!! v7")
